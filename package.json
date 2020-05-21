@@ -1,0 +1,20 @@
+{
+  "name": "apollo-server-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jake Hayes",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.6",
+    "apollo-server": "^2.13.1",
+    "apollo-server-express": "^2.13.1",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4"
+  }
+}
